@@ -24,7 +24,7 @@ Proyecto de reserva de boletas.
     -
 
 
-# FRONTED
+# FRONTEND
    -Leer el README del fromtend para configurar y iniciar
    -Se configuro el acceso a rutas protegidas ddel servidor y se guarda en localstorage el token y el usuario.
 
